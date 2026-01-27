@@ -25,16 +25,17 @@
 - **Performance Metrics:** Real-time **timing display** to compare algorithm efficiency.
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="Images/Prim.png" style="width: 50%; height: auto;">
-  <img src="Images/Flood.png" style="width: 50%; height: auto;">
-</div>
+
+
+| ![Prim](Images/Prim.png) | ![Flood](Images/Flood.png) |
+|----------------|----------------|
+| |  |
 
 
 
 
 
----
+
 
 ## 🎮 Controls
 
