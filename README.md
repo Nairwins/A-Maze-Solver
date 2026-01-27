@@ -26,8 +26,8 @@
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="Images/Prim.png" width=200uw style="margin-right: 10px;">
-  <img src="Images/Flood.png" width=200uw>
+  <img src="Images/Prim.png" width=50% style="margin-right: 10px;">
+  <img src="Images/Flood.png" width=50%>
 </div>
 
 
