@@ -1,4 +1,4 @@
-# 🟩 Maze Lab — Interactive Maze Generator & Solver
+# 🟩 Maze Generator & Solver
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-2-orange)](https://www.pygame.org/news)
@@ -26,8 +26,8 @@
 
 
 <div style="display: flex; justify-content: center;">
-  <img src="Images/Prim.png" width="300" style="margin-right: 10px;">
-  <img src="Images/Flood.png" width="300">
+  <img src="Images/Prim.png" width=200uw style="margin-right: 10px;">
+  <img src="Images/Flood.png" width=200uw>
 </div>
 
 
