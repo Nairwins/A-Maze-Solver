@@ -25,10 +25,11 @@
 - **Performance Metrics:** Real-time **timing display** to compare algorithm efficiency.
 
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img src="Images/Prim.png" style="flex: 1; max-width: 50%; height: auto;">
-  <img src="Images/Flood.png" style="flex: 1; max-width: 50%; height: auto;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
+  <img src="Images/Prim.png" style="width: 50%; height: auto;">
+  <img src="Images/Flood.png" style="width: 50%; height: auto;">
 </div>
+
 
 
 
